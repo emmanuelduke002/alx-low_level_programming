@@ -1,0 +1,1 @@
+More stringy linked list
